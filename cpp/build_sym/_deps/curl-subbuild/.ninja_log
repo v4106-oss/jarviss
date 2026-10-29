@@ -1,0 +1,21 @@
+# ninja log v7
+8	101	8148967762065288	curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	3227f7110fcde7b8
+8	101	8148967762065288	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	3227f7110fcde7b8
+102	5560	8148967816648918	curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	a221c5a102d08d2
+102	5560	8148967816648918	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	a221c5a102d08d2
+5560	5655	8148967817591241	curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	5b8aa1b9451dc3c2
+5560	5655	8148967817591241	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	5b8aa1b9451dc3c2
+5656	5758	8148967818633462	curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	3ea0721f67893b6
+5656	5758	8148967818633462	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	3ea0721f67893b6
+5759	5852	8148967819578976	curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	4087a669fcada04e
+5759	5852	8148967819578976	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	4087a669fcada04e
+5853	5970	8148967820704531	curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	8be8941ea8066b07
+5853	5970	8148967820704531	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	8be8941ea8066b07
+5971	6086	8148967821908647	curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	67c65d1bf8b0bbe7
+5971	6086	8148967821908647	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	67c65d1bf8b0bbe7
+6087	6211	8148967823078563	curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	2fe0c621ce492b68
+6087	6211	8148967823078563	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	2fe0c621ce492b68
+6211	6398	8148967824889072	CMakeFiles/curl-populate-complete	e9cae8e9f3204631
+6211	6398	8148967824889072	curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	e9cae8e9f3204631
+6211	6398	8148967824889072	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-subbuild/CMakeFiles/curl-populate-complete	e9cae8e9f3204631
+6211	6398	8148967824889072	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	e9cae8e9f3204631

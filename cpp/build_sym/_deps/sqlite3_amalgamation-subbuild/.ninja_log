@@ -1,0 +1,21 @@
+# ninja log v7
+13	160	8148967302010662	sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-mkdir	bfcaebf2aeffd4e6
+13	160	8148967302010662	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-mkdir	bfcaebf2aeffd4e6
+162	2902	8148967329435601	sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-download	bab8a7ce57f28805
+162	2902	8148967329435601	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-download	bab8a7ce57f28805
+2903	3031	8148967330736801	sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-update	aba0449410e0437a
+2903	3031	8148967330736801	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-update	aba0449410e0437a
+3032	3226	8148967332653617	sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-patch	9e92b798917875fe
+3032	3226	8148967332653617	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-patch	9e92b798917875fe
+3226	3356	8148967333984834	sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-configure	321c97dfd9e92546
+3226	3356	8148967333984834	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-configure	321c97dfd9e92546
+3357	3467	8148967335085826	sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-build	c67fde96204e0758
+3357	3467	8148967335085826	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-build	c67fde96204e0758
+3467	3578	8148967336216859	sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-install	ccaa3115c8e55491
+3467	3578	8148967336216859	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-install	ccaa3115c8e55491
+3578	3700	8148967337447968	sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-test	9fb24054b80b9967
+3578	3700	8148967337447968	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-test	9fb24054b80b9967
+3700	3817	8148967338609041	CMakeFiles/sqlite3_amalgamation-populate-complete	7a8f49622718c3ca
+3700	3817	8148967338609041	sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-done	7a8f49622718c3ca
+3700	3817	8148967338609041	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/CMakeFiles/sqlite3_amalgamation-populate-complete	7a8f49622718c3ca
+3700	3817	8148967338609041	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-done	7a8f49622718c3ca

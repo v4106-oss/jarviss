@@ -1,0 +1,35 @@
+# ===== COLORS =====
+
+BACKGROUND = "#1e1f22"
+
+PANEL = "#25262b"
+
+CHAT = "#2b2d31"
+
+INPUT = "#313338"
+
+PRIMARY = "#5865F2"
+
+PRIMARY_HOVER = "#7289da"
+
+TEXT = "#ffffff"
+
+BORDER = "#3b3d44"
+
+
+# ===== SIZES =====
+
+WINDOW_RADIUS = 18
+
+BUTTON_RADIUS = 12
+
+INPUT_RADIUS = 12
+
+SIDEBAR_WIDTH = 220
+
+
+# ===== FONT =====
+
+FONT = "Segoe UI"
+
+FONT_SIZE = 11

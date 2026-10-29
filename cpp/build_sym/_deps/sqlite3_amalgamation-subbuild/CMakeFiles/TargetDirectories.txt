@@ -1,0 +1,3 @@
+C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/CMakeFiles/sqlite3_amalgamation-populate.dir
+C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/CMakeFiles/sqlite3_amalgamation-populate"
+		},
+		{
+			"file" : "C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/CMakeFiles/sqlite3_amalgamation-populate.rule"
+		},
+		{
+			"file" : "C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/CMakeFiles/sqlite3_amalgamation-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/sqlite3_amalgamation-subbuild/sqlite3_amalgamation-populate-prefix/src/sqlite3_amalgamation-populate-stamp/sqlite3_amalgamation-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sqlite3_amalgamation-populate"
+		],
+		"name" : "sqlite3_amalgamation-populate"
+	}
+}

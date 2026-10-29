@@ -1,0 +1,1345 @@
+# ninja log v7
+182	12841	8148967991748625	CMakeFiles/jarvis_core.dir/src/core/util.cpp.obj	34740afa9e671187
+190	13610	8148967991828705	CMakeFiles/jarvis_core.dir/src/core/log.cpp.obj	5c0f3fdc0282fade
+199	13991	8148967991913353	CMakeFiles/jarvis_core.dir/src/core/hash.cpp.obj	6ab0b1581a4f0f80
+208	18782	8148967991998500	CMakeFiles/jarvis_core.dir/src/core/history.cpp.obj	af5efc1dab119296
+18784	20835	8148968177762640	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/altsvc.c.obj	47bcaae1b6dbce73
+20837	21820	8148968198285891	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/amigaos.c.obj	3a0731ed6527c0d4
+21821	25309	8148968208139852	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/asyn-ares.c.obj	ef6a4448206b687a
+25325	28592	8148968243168543	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/asyn-thread.c.obj	743c69f66c62a092
+217	29865	8148967992098598	CMakeFiles/jarvis_core.dir/src/core/settings.cpp.obj	b787536cf1e34048
+28592	30212	8148968275844786	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/base64.c.obj	8a55dcb867bf4b59
+29865	31964	8148968288579479	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/bufq.c.obj	29016517857c5ce3
+30212	32442	8148968292042647	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/bufref.c.obj	1aeec6778be6db09
+31965	32767	8148968309569990	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/c-hyper.c.obj	31ecd5a5671a8286
+32768	33875	8148968317624769	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/cf-h2-proxy.c.obj	3f48b0cf28b509f9
+32442	34351	8148968314346696	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/cf-h1-proxy.c.obj	c812d27d0840b35d
+226	34974	8148967992178676	CMakeFiles/jarvis_core.dir/src/core/home.cpp.obj	68edba8e560f39e4
+33876	35108	8148968328685573	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/cf-haproxy.c.obj	b7ee61279c9d8cd5
+34352	36202	8148968333439882	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/cf-https-connect.c.obj	e78f8cd0c5655a99
+35109	37943	8148968341016604	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/cfilters.c.obj	33fd07935e9ac0ed
+34975	38298	8148968339670277	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/cf-socket.c.obj	dc7301b8a8f21d86
+234	39029	8148967992268762	CMakeFiles/jarvis_core.dir/src/core/skill_library.cpp.obj	efbb4d4bd2503854
+36203	39198	8148968351943260	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/conncache.c.obj	f6dc374508bad5fe
+38299	40741	8148968372915758	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/content_encoding.c.obj	7376d7cc2c5dc743
+37943	41209	8148968369384549	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/connect.c.obj	ad93688326a0a7ae
+39200	41233	8148968381919055	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/curl_addrinfo.c.obj	62fb60e0151e3e62
+39030	41800	8148968380217545	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/cookie.c.obj	a7414e3882eb9c18
+41210	42784	8148968402017981	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/curl_endian.c.obj	72ae200c43b214d1
+41801	43189	8148968407928888	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/curl_get_line.c.obj	627259f01dbda2c
+40742	43222	8148968397338389	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/curl_des.c.obj	ab3c12e3266c3451
+41233	43408	8148968402258200	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/curl_fnmatch.c.obj	41f76a75a55c7b18
+43190	45093	8148968421815660	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/curl_gssapi.c.obj	401b912fff08e85a
+42785	45322	8148968417767843	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/curl_gethostname.c.obj	946ebe5833a5b6ea
+43223	46394	8148968422145967	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/curl_memrchr.c.obj	ccd5a4b77d930a92
+43408	47127	8148968424002767	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/curl_multibyte.c.obj	287404cad7e8d2e
+45094	47571	8148968440868322	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/curl_ntlm_core.c.obj	828bb439f890c8c1
+45323	47819	8148968443150437	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/curl_path.c.obj	c3390d0ac48216f4
+46395	48595	8148968453870305	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/curl_range.c.obj	ef608c3693322f09
+47128	48727	8148968461196979	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/curl_rtmp.c.obj	4f29175eab24ddab
+47571	48939	8148968465631004	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/curl_sasl.c.obj	b94c8a36ea79cc05
+13991	49421	8148968129829610	CMakeFiles/jarvis_core.dir/src/ai/agent.cpp.obj	d2b0c15123fdd858
+47820	51235	8148968468113259	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/curl_sha512_256.c.obj	e97fc6ad99774f0f
+48595	51652	8148968475875390	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/curl_sspi.c.obj	fead1c048da5389c
+48727	51766	8148968477196623	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/curl_threads.c.obj	ad830dda36b4fc51
+49421	51888	8148968484133145	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/cw-out.c.obj	5f8afe3b68e94649
+48939	51918	8148968479328569	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/curl_trc.c.obj	3f82903bab30bb9c
+51236	52312	8148968502280671	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/dict.c.obj	59fa7b424438f23f
+51889	53932	8148968508802118	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/dynhds.c.obj	8a6d122c10e61c0d
+51766	54696	8148968507580810	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/dynbuf.c.obj	42e6b1ac6fcdbb4a
+51653	54829	8148968506449788	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/doh.c.obj	1cb6363e739340b7
+51919	55370	8148968509112418	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/easy.c.obj	213f9d369c0e1770
+52312	55400	8148968513045988	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/easygetopt.c.obj	26a0017441c6babe
+53933	55692	8148968529245048	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/easyoptions.c.obj	67cb92c07dd8a407
+54831	56500	8148968538234159	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/file.c.obj	8baadf6370cc000c
+55371	56710	8148968543629290	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/fileinfo.c.obj	85f806e603ed09e3
+54699	57579	8148968536907809	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/escape.c.obj	eb2106766a7b090c
+56500	58425	8148968554933461	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/ftp.c.obj	e904b9c7e1d850a7
+55401	58800	8148968543924709	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/fopen.c.obj	e0cd2c662b1ed2b8
+55692	59100	8148968546842759	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/formdata.c.obj	eb2170185a6149bf
+56712	60435	8148968557045375	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/ftplistparser.c.obj	b7bf80c7fc68d66f
+58426	60829	8148968574181230	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/getinfo.c.obj	dd5f551688797f26
+57580	60980	8148968565718366	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/getenv.c.obj	2832978b071cff9a
+173	61076	8148967991650631	CMakeFiles/sqlite3.dir/_deps/sqlite3_amalgamation-src/sqlite3.c.obj	8c03218e31b5c50a
+59101	61280	8148968580927754	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/hash.c.obj	baab4f8fff9543c1
+58801	62034	8148968577925014	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/gopher.c.obj	d1e0430a97571d3a
+60830	62585	8148968598222237	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/hmac.c.obj	aa4d176c39c620b1
+60981	62661	8148968599723607	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/hostasyn.c.obj	7fe68c8c4ce602bf
+61281	62794	8148968602726352	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/hostip4.c.obj	e35dbf49c46a6ec1
+61077	63092	8148968600684482	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/hostip.c.obj	9c7312066f846c04
+60437	63120	8148968594291414	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/headers.c.obj	5b6aa74750ebb8df
+62795	64548	8148968617866124	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/http.c.obj	ec46d94412abcfed
+62034	64697	8148968610269190	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/hostip6.c.obj	41c93c1b13575e47
+62585	64723	8148968615774198	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/hostsyn.c.obj	50e97a5bf548655d
+63093	64751	8148968620848849	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/http1.c.obj	1c1721fec29ab146
+63120	64814	8148968621119071	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/http2.c.obj	1f9f0ce427bba791
+62662	65618	8148968616534897	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/hsts.c.obj	1e3589dc8324e10
+64549	66097	8148968635404147	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/http_aws_sigv4.c.obj	f4e5ea6861d7bae2
+64751	66189	8148968637431317	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/http_negotiate.c.obj	30fbcac901a9ef18
+64814	66219	8148968638061885	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/http_ntlm.c.obj	3767b55c6b008303
+64724	67602	8148968637155963	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/http_digest.c.obj	3a4c7988db0341e1
+64698	67636	8148968636895507	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/http_chunks.c.obj	710e81111eb1c3e9
+65619	67776	8148968646114876	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/http_proxy.c.obj	3f3509f41be87867
+12843	68199	8148968118354068	CMakeFiles/jarvis_core.dir/src/ai/safety.cpp.obj	fdac3ffdf3d1eb6f
+66190	68399	8148968651815416	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/if2ip.c.obj	7f95e83cfc4aaeca
+67637	68428	8148968666290660	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/inet_pton.c.obj	2b4079b3506c9b91
+13611	68478	8148968126026160	CMakeFiles/jarvis_core.dir/src/ai/undo.cpp.obj	f40e2a9cfe45420a
+66098	68570	8148968650894592	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/idn.c.obj	a7e49718c94ac0fe
+67603	69109	8148968665950350	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/inet_ntop.c.obj	622793d3be52be57
+67777	69138	8148968667691934	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/krb5.c.obj	2b31e48e6575adfa
+68200	69163	8148968671915777	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/ldap.c.obj	31169249fdd8a075
+68429	69211	8148968674204876	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/macos.c.obj	e0b17a8df7124773
+68399	69260	8148968673914611	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/llist.c.obj	13b905c879b44b3c
+68478	69323	8148968674705336	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/md4.c.obj	2bffcc95a8f0054a
+66219	69724	8148968652115673	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/imap.c.obj	969335e68f48a607
+69110	69755	8148968681016161	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/memdebug.c.obj	c4c59dd72449aca0
+68571	70260	8148968675626171	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/md5.c.obj	72c5541de3dc1d33
+69212	70320	8148968682037103	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/mqtt.c.obj	90630d15647ddffb
+69138	70379	8148968681306431	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/mime.c.obj	6669e7725ad9d6b6
+69324	70405	8148968683168122	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/netrc.c.obj	e5cba9ee493ca82b
+69163	70702	8148968681556655	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/mprintf.c.obj	f45b06b6468de87f
+69263	70906	8148968682577584	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/multi.c.obj	bc48a13755dd4ee6
+70260	70931	8148968692526636	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/openldap.c.obj	b6f922f84e94d769
+69725	70953	8148968687171771	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/nonblock.c.obj	5a8b23bd48a685d
+69756	70979	8148968687482055	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/noproxy.c.obj	12cfcc9c2a965afe
+70406	71319	8148968693977958	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/pop3.c.obj	7cbad03c39b32b77
+70321	71350	8148968693127181	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/parsedate.c.obj	9b9b0f3486344b0d
+70907	71737	8148968698992522	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/psl.c.obj	edab9be277d06394
+70379	71774	8148968693717725	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/pingpong.c.obj	534c53bdebc49bb0
+70954	71805	8148968699462953	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/rename.c.obj	2665d75f206f3f16
+70980	71844	8148968699723177	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/request.c.obj	7dfdd7849941b69
+71319	72187	8148968703116275	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/rtsp.c.obj	f0ab9855de6d67bf
+70704	72213	8148968696970681	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/progress.c.obj	8896a6cf6cca595
+70931	72244	8148968699232740	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/rand.c.obj	6436f4c72616a782
+71351	72858	8148968703426556	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/select.c.obj	c5df918889b42db6
+72214	72901	8148968712064765	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/smb.c.obj	898ab04d1c250262
+72188	72989	8148968711794515	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/slist.c.obj	597e29a040575911
+71805	73035	8148968707975937	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/sha256.c.obj	d34ee9ec4e296af8
+71845	73087	8148968708366291	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/share.c.obj	a598ba96cf1bd916
+71737	73148	8148968707295315	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/sendf.c.obj	2b61e071ce1c176f
+72245	73678	8148968712365034	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/smtp.c.obj	904ba1eb7d8d39df
+71774	73708	8148968707665644	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/setopt.c.obj	56f557f2823d22eb
+73035	73963	8148968720277606	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/socks_sspi.c.obj	7c7d2d3e6d977d28
+73088	73990	8148968720798078	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/speedcheck.c.obj	1095811a357b77d4
+72858	74017	8148968718505989	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/socketpair.c.obj	87e738ca5a70bf43
+72989	74174	8148968719817193	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/socks_gssapi.c.obj	ca8ca1862410ccec
+73150	74455	8148968721418638	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/splay.c.obj	b65cb2fc2b375a56
+72909	74483	8148968719016482	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/socks.c.obj	4d11da557ad55615
+73964	74846	8148968729557309	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/strerror.c.obj	1c60c596ba8dca94
+73709	74888	8148968727014803	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/strdup.c.obj	c0c69b07661fc55d
+74017	74973	8148968730097805	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/strtoofft.c.obj	25c9a7f49f6f0fcf
+73678	75058	8148968726714534	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/strcase.c.obj	a3ec3b60b2ce2f7a
+73990	75468	8148968729827566	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/strtok.c.obj	390903194027a6d9
+74484	75537	8148968734761060	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/tftp.c.obj	e1ca3921ff6191b
+74456	75573	8148968734480801	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/telnet.c.obj	ca013fd2a8da4e28
+74174	75623	8148968731661328	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/system_win32.c.obj	35d460517e080d64
+74888	75671	8148968738865226	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/timeval.c.obj	174d114cd689f028
+74847	75710	8148968738394794	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/timediff.c.obj	46f73870deab531f
+75538	77030	8148968745297041	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/version.c.obj	81c90c7c2cab9448
+75710	77099	8148968747028615	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vauth/cleartext.c.obj	74923e163f4f08b2
+75623	77124	8148968746157829	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/warnless.c.obj	f4c9b8a9494206ff
+75574	77149	8148968745657365	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/version_win32.c.obj	fb1de8b964747c3a
+74975	77240	8148968739665951	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/transfer.c.obj	d503d8aa7d2305a2
+75058	77269	8148968740506721	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/url.c.obj	46187a194db205f5
+75469	77450	8148968744656454	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/urlapi.c.obj	7efcdee6416b8de4
+75672	77921	8148968746638265	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/ws.c.obj	99348f3cad410be0
+77241	78023	8148968762327652	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vauth/krb5_gssapi.c.obj	5333874ea818a04c
+77100	78060	8148968760916357	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vauth/digest.c.obj	88af82498c594371
+77149	78420	8148968761416811	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vauth/gsasl.c.obj	5602c553da34c915
+77450	78509	8148968764429545	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vauth/ntlm.c.obj	e5e07bc7d54f0ef1
+77125	78541	8148968761166588	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vauth/digest_sspi.c.obj	efe4abf18f26355a
+77269	78588	8148968762617911	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vauth/krb5_sspi.c.obj	3a3a398706b82258
+78061	78946	8148968770530408	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vauth/spnego_gssapi.c.obj	2b5c671745733ac0
+78024	78971	8148968770154906	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vauth/oauth2.c.obj	64715be0affa9612
+77031	79003	8148968760225733	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vauth/cram.c.obj	f2238fd2e493b6f3
+77922	79458	8148968769133979	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vauth/ntlm_sspi.c.obj	9284bec4afa3b3d9
+78589	79482	8148968775810632	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vtls/cipher_suite.c.obj	49ae576bfccbc0ba
+78509	79513	8148968775019934	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vauth/vauth.c.obj	234b14b2cb02aa34
+78421	79546	8148968774509453	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vauth/spnego_sspi.c.obj	b07c195902b76357
+78541	79823	8148968775350226	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vtls/bearssl.c.obj	552915e2ac7d8d8f
+78947	79850	8148968779399152	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vtls/gtls.c.obj	da49b4f18a21a360
+79004	79877	8148968779959664	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vtls/keylog.c.obj	9ffc0e3f2f09450a
+79547	80262	8148968785389867	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vtls/rustls.c.obj	34dcea1f0f2fa6e0
+79459	80287	8148968784519069	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vtls/mbedtls.c.obj	61a824eb39cb81d5
+78972	80324	8148968779639381	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vtls/hostcheck.c.obj	f88ce8b1147adadd
+79514	80489	8148968785059553	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vtls/openssl.c.obj	cab8d32b9da3c438
+79483	80513	8148968784749274	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vtls/mbedtls_threadlock.c.obj	d45f41cc0861471a
+80490	81119	8148968794818632	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vquic/curl_msh3.c.obj	1834fa2f547c88b3
+79851	81151	8148968788422614	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vtls/schannel_verify.c.obj	19c376c714601d0
+79877	81389	8148968788692858	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vtls/sectransp.c.obj	f7d52531eb5ef094
+80288	81417	8148968792806611	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vtls/wolfssl.c.obj	58f2d13be36d8e09
+80514	81536	8148968795058858	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vquic/curl_ngtcp2.c.obj	56725fad14da0874
+80263	81614	8148968792546373	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vtls/vtls.c.obj	21ed0a482858a5c
+79823	81660	8148968788152365	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vtls/schannel.c.obj	59b59412e3a9c210
+81152	82138	8148968801438616	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vquic/curl_quiche.c.obj	727ff92c9d78c50a
+80325	82183	8148968793176962	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vtls/x509asn1.c.obj	3bf14c5a68a8f362
+81120	82222	8148968801128341	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vquic/curl_osslq.c.obj	278e92e72033dcad
+81537	82443	8148968805292135	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vssh/libssh.c.obj	bb3af5e1cadf3919
+81418	82509	8148968804101037	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vquic/vquic-tls.c.obj	1295cdbee2fec9c6
+81390	82541	8148968803820784	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vquic/vquic.c.obj	eca16951a438a8dc
+81615	82793	8148968806082847	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vssh/libssh2.c.obj	a91d2aecf532e07a
+82139	83016	8148968811307595	_deps/curl-build/lib/CMakeFiles/libcurl_shared.dir/dllmain.c.obj	c582f1f5a849de13
+81660	83073	8148968806523244	_deps/curl-build/lib/CMakeFiles/libcurl_object.dir/vssh/wolfssh.c.obj	3a3cea084938662
+82223	84115	8148968812148360	sqlite3.lib	daf5e71d4d8c9d81
+82183	84217	8148968811758009	_deps/curl-build/lib/CMakeFiles/libcurl_shared.dir/libcurl.rc.res	30e5ec312b3c2e29
+82793	86871	8148968817848636	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/accept_encoding.cpp.obj	817e0a687a64071a
+82444	89342	8148968814360373	jarvis_core.lib	8b8173e63f887ce4
+83073	90384	8148968820656285	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/auth.cpp.obj	adaa5bbafb6106d0
+84116	92103	8148968831075025	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/bearer.cpp.obj	ad769f74618b5431
+86871	92900	8148968858629920	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/callback.cpp.obj	4ca4e9c41fe5d859
+83017	93168	8148968820085775	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/async.cpp.obj	f8df442864e6a8e1
+89343	93300	8148968883344685	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/cert_info.cpp.obj	ccae9b592f91b9ad
+82510	99599	8148968815020975	CMakeFiles/jarvis_storage.dir/src/storage/storage.cpp.obj	9b8bdf89b71b4fb0
+90385	101102	8148968893770475	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/cookies.cpp.obj	aa736007420ad273
+92103	102255	8148968910951194	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/cprtypes.cpp.obj	a47716e1ab1fe299
+93169	102794	8148968921606227	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/curlholder.cpp.obj	af07e0c6cc43e056
+93300	104024	8148968922927433	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/error.cpp.obj	93f7295b2dbaa3fc
+92900	105220	8148968918923793	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/curl_container.cpp.obj	438eb1eced5c76e8
+82541	105916	8148968815331252	CMakeFiles/jarvis_storage.dir/src/storage/task_session.cpp.obj	71cbfe725010d01f
+104024	107248	8148969030165636	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/proxies.cpp.obj	6be5b65df15d51cb
+102256	107477	8148969012473719	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/parameters.cpp.obj	14409fc024cb64d1
+102795	107682	8148969017881486	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/payload.cpp.obj	8af4baf6b74e28dc
+99600	108948	8148968985919075	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/file.cpp.obj	99e52f8a2e1f3b7f
+101103	109140	8148969000948432	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/multipart.cpp.obj	c08058a996655a4b
+107683	111388	8148969066747285	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/unix_socket.cpp.obj	834a001d4bc4da9
+107478	112819	8148969064705444	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/timeout.cpp.obj	7beb9dd6a6e25d6e
+111388	112912	8148969103808733	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/redirect.cpp.obj	f7221e48d1d8f76a
+105220	113617	8148969042126824	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/proxyauth.cpp.obj	63df4a16f927627d
+107250	115195	8148969062418232	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/threadpool.cpp.obj	b37e8e17d3de419a
+113618	116263	8148969126093832	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/curlmultiholder.cpp.obj	9a4f61e908f6c1ad
+109141	117285	8148969081323355	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/response.cpp.obj	55c2ef2bd27d2a57
+84218	117304	8148969149055136	_deps/curl-build/lib/libcurl.dll	3a74cc9cadd455a7
+84218	117304	8148969149055136	_deps/curl-build/lib/libcurl_imp.lib	3a74cc9cadd455a7
+108949	121444	8148969079411620	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/util.cpp.obj	14123e5cd08851f9
+105917	124068	8148969049090382	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/session.cpp.obj	d2a1e49cb8c1aaa2
+117285	124087	8148969162771707	jarvis_storage.lib	83bfb514ba628dcf
+112913	125421	8148969119043460	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/ssl_ctx.cpp.obj	f5f19d4945ee0530
+112820	126799	8148969118122626	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/interceptor.cpp.obj	f3228aebf001ac45
+115196	131225	8148969141873505	_deps/cpr-build/cpr/CMakeFiles/cpr.dir/multiperform.cpp.obj	1a5fd13471db527f
+353	15904	8148972192813548	CMakeFiles/jarvis_net.dir/src/net/http.cpp.obj	7d4c27ab69af0f0a
+131226	141438	8148969397844442	_deps/cpr-build/cpr/cpr.dll	855e5c23d72b1225
+131226	141438	8148969397844442	_deps/cpr-build/cpr/cpr.lib	855e5c23d72b1225
+141440	144397	8148969404320376	jarvis_net.lib	941ba4a523a46127
+402	11699	8148972193293989	CMakeFiles/agent_probe.dir/tests/agent_probe.cpp.obj	90966ed233877a2
+117307	150420	8148969162991916	CMakeFiles/jarvis_exec.dir/src/ai/executor.cpp.obj	d0a0e59885d500be
+150421	152089	8148969494130552	jarvis_exec.lib	4e485e6e97ca190f
+385	16508	8148972193133850	CMakeFiles/jarvis_ai.dir/src/ai/worker.cpp.obj	5bbb2e199798890a
+121444	160676	8148969204363605	CMakeFiles/jarvis_ai.dir/src/ai/ai.cpp.obj	fd11e9df9cb3e26a
+160676	161175	8148969596679719	jarvis_ai.lib	5e9d778f738f84d5
+161175	168759	8148969601679436	agent_probe.exe	d8d40695242ad321
+171	12040	8149033915732465	build.ninja	b843122c2a987bf7
+171	12040	8149033915732465	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/cmake_install.cmake	b843122c2a987bf7
+171	12040	8149033915732465	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/nlohmann_json-build/cmake_install.cmake	b843122c2a987bf7
+171	12040	8149033915732465	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/cpr-build/cmake_install.cmake	b843122c2a987bf7
+171	12040	8149033915732465	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/zlib-build/cmake_install.cmake	b843122c2a987bf7
+171	12040	8149033915732465	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/cmake_install.cmake	b843122c2a987bf7
+171	12040	8149033915732465	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/cmake_install.cmake	b843122c2a987bf7
+171	12040	8149033915732465	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/cmake_install.cmake	b843122c2a987bf7
+171	12040	8149033915732465	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/cmake_install.cmake	b843122c2a987bf7
+171	12040	8149033915732465	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/lib/cmake_install.cmake	b843122c2a987bf7
+171	12040	8149033915732465	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/cpr-build/cpr/cmake_install.cmake	b843122c2a987bf7
+171	12040	8149033915732465	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/cpr-build/include/cmake_install.cmake	b843122c2a987bf7
+171	12040	8149033915732465	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/CTestTestfile.cmake	b843122c2a987bf7
+281	6728	8149033919415749	CMakeFiles/jarvis_core.dir/src/core/log.cpp.obj	5c0f3fdc0282fade
+273	9169	8149033919325645	CMakeFiles/jarvis_core.dir/src/core/util.cpp.obj	34740afa9e671187
+290	14175	8149033919495823	CMakeFiles/jarvis_core.dir/src/core/history.cpp.obj	af5efc1dab119296
+331	25066	8149033919916197	CMakeFiles/jarvis_net.dir/src/net/http.cpp.obj	7d4c27ab69af0f0a
+310	25088	8149033919706000	CMakeFiles/jarvis_storage.dir/src/storage/storage.cpp.obj	9b8bdf89b71b4fb0
+322	28754	8149033919816106	CMakeFiles/jarvis_storage.dir/src/storage/task_session.cpp.obj	71cbfe725010d01f
+298	30990	8149033919585889	CMakeFiles/jarvis_core.dir/src/core/settings.cpp.obj	b787536cf1e34048
+345	35006	8149033920056317	CMakeFiles/jarvis_exec.dir/src/ai/executor.cpp.obj	d0a0e59885d500be
+14176	36070	8149034058360366	CMakeFiles/jarvis_speech.dir/src/speech/text.cpp.obj	9e52c33e6bf3a591
+36071	37413	8149034286485895	_deps/curl-build/docs/libcurl/opts/CURLSHOPT_UNLOCKFUNC.3	8824cfd8bf21ec5c
+36071	37413	8149034286485895	_deps/curl-build/docs/libcurl/opts/CURLSHOPT_UNSHARE.3	8824cfd8bf21ec5c
+36071	37413	8149034286485895	_deps/curl-build/docs/libcurl/opts/CURLSHOPT_USERDATA.3	8824cfd8bf21ec5c
+36071	37413	8149034286485895	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLSHOPT_UNLOCKFUNC.3	8824cfd8bf21ec5c
+36071	37413	8149034286485895	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLSHOPT_UNSHARE.3	8824cfd8bf21ec5c
+36071	37413	8149034286485895	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLSHOPT_USERDATA.3	8824cfd8bf21ec5c
+30991	39605	8149034226505337	jarvis_core.lib	8b8173e63f887ce4
+39605	46127	8149034312655311	jarvis_storage.lib	83bfb514ba628dcf
+9170	48620	8149034008307399	CMakeFiles/jarvis_ai.dir/src/ai/worker.cpp.obj	5bbb2e199798890a
+46127	49388	8149034377875250	jarvis_net.lib	941ba4a523a46127
+25089	50907	8149034167485427	CMakeFiles/jarvis_speech.dir/src/speech/synth.cpp.obj	5b5ac136f096da30
+48620	52730	8149034402802151	jarvis_exec.lib	4e485e6e97ca190f
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_ISSUERCERT_BLOB.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_KEEP_SENDING_ON_ERROR.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_KEYPASSWD.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_KRBLEVEL.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_LOCALPORT.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_LOCALPORTRANGE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_LOGIN_OPTIONS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_LOW_SPEED_LIMIT.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_LOW_SPEED_TIME.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_MAIL_AUTH.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_MAIL_FROM.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_MAIL_RCPT.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_MAIL_RCPT_ALLOWFAILS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_MAX_RECV_SPEED_LARGE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_MAX_SEND_SPEED_LARGE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_MAXAGE_CONN.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_MAXCONNECTS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_MAXFILESIZE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_MAXFILESIZE_LARGE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_MAXLIFETIME_CONN.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_MAXREDIRS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_MIME_OPTIONS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_MIMEPOST.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_NETRC.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_NETRC_FILE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_NEW_DIRECTORY_PERMS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_NEW_FILE_PERMS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_NOBODY.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_NOPROGRESS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_NOPROXY.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_NOSIGNAL.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_OPENSOCKETDATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_OPENSOCKETFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PASSWORD.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PATH_AS_IS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PINNEDPUBLICKEY.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PIPEWAIT.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PORT.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_POST.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_POSTFIELDS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_POSTFIELDSIZE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_POSTFIELDSIZE_LARGE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_POSTQUOTE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_POSTREDIR.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PRE_PROXY.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PREQUOTE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PREREQDATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PREREQFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PRIVATE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROGRESSDATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROGRESSFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROTOCOLS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROTOCOLS_STR.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_CAINFO.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_CAINFO_BLOB.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_CAPATH.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_CRLFILE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_ISSUERCERT.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_ISSUERCERT_BLOB.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_KEYPASSWD.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_PINNEDPUBLICKEY.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SERVICE_NAME.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSL_CIPHER_LIST.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSL_OPTIONS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSL_VERIFYHOST.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSL_VERIFYPEER.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSLCERT.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSLCERT_BLOB.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSLCERTTYPE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSLKEY.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSLKEY_BLOB.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSLKEYTYPE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSLVERSION.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_TLS13_CIPHERS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_TLSAUTH_PASSWORD.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_TLSAUTH_TYPE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_TLSAUTH_USERNAME.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_TRANSFER_MODE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXYAUTH.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXYHEADER.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXYPASSWORD.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXYPORT.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXYTYPE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXYUSERNAME.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXYUSERPWD.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_PUT.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_QUICK_EXIT.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_QUOTE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_RANDOM_FILE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_RANGE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_READDATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_READFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_REDIR_PROTOCOLS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_REDIR_PROTOCOLS_STR.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_REFERER.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_REQUEST_TARGET.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_RESOLVE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_RESOLVER_START_DATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_RESOLVER_START_FUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_RESUME_FROM.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_RESUME_FROM_LARGE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_RTSP_CLIENT_CSEQ.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_RTSP_REQUEST.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_RTSP_SERVER_CSEQ.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_RTSP_SESSION_ID.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_RTSP_STREAM_URI.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_RTSP_TRANSPORT.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SASL_AUTHZID.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SASL_IR.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SEEKDATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SEEKFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SERVER_RESPONSE_TIMEOUT.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SERVER_RESPONSE_TIMEOUT_MS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SERVICE_NAME.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SHARE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SOCKOPTDATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SOCKOPTFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SOCKS5_AUTH.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SOCKS5_GSSAPI_NEC.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SOCKS5_GSSAPI_SERVICE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_AUTH_TYPES.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_COMPRESSION.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_HOSTKEYDATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_HOSTKEYFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_HOST_PUBLIC_KEY_MD5.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_HOST_PUBLIC_KEY_SHA256.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_KEYDATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_KEYFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_KNOWNHOSTS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_PRIVATE_KEYFILE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_PUBLIC_KEYFILE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_CIPHER_LIST.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_CTX_DATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_CTX_FUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_EC_CURVES.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_ENABLE_ALPN.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_ENABLE_NPN.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_FALSESTART.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_OPTIONS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_SESSIONID_CACHE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_VERIFYHOST.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_VERIFYPEER.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_VERIFYSTATUS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSLCERT.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSLCERT_BLOB.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSLCERTTYPE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSLENGINE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSLENGINE_DEFAULT.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSLKEY.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSLKEY_BLOB.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSLKEYTYPE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SSLVERSION.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_STDERR.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_STREAM_DEPENDS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_STREAM_DEPENDS_E.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_STREAM_WEIGHT.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_SUPPRESS_CONNECT_HEADERS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TCP_FASTOPEN.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TCP_KEEPALIVE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TCP_KEEPIDLE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TCP_KEEPINTVL.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TCP_KEEPCNT.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TCP_NODELAY.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TELNETOPTIONS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TFTP_BLKSIZE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TFTP_NO_OPTIONS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TIMECONDITION.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TIMEOUT.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TIMEOUT_MS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TIMEVALUE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TIMEVALUE_LARGE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TLS13_CIPHERS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TLSAUTH_PASSWORD.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TLSAUTH_TYPE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TLSAUTH_USERNAME.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TRAILERDATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TRAILERFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TRANSFER_ENCODING.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_TRANSFERTEXT.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_UNIX_SOCKET_PATH.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_UNRESTRICTED_AUTH.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_UPKEEP_INTERVAL_MS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_UPLOAD.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_UPLOAD_BUFFERSIZE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_URL.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_USE_SSL.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_USERAGENT.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_USERNAME.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_USERPWD.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_VERBOSE.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_WILDCARDMATCH.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_WRITEDATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_WRITEFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_WS_OPTIONS.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_XFERINFODATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_XFERINFOFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLOPT_XOAUTH2_BEARER.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLSHOPT_LOCKFUNC.3	e1dc12e76de29773
+35006	56291	8149034470782017	_deps/curl-build/docs/libcurl/opts/CURLSHOPT_SHARE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_ISSUERCERT_BLOB.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_KEEP_SENDING_ON_ERROR.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_KEYPASSWD.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_KRBLEVEL.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_LOCALPORT.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_LOCALPORTRANGE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_LOGIN_OPTIONS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_LOW_SPEED_LIMIT.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_LOW_SPEED_TIME.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_MAIL_AUTH.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_MAIL_FROM.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_MAIL_RCPT.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_MAIL_RCPT_ALLOWFAILS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_MAX_RECV_SPEED_LARGE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_MAX_SEND_SPEED_LARGE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_MAXAGE_CONN.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_MAXCONNECTS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_MAXFILESIZE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_MAXFILESIZE_LARGE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_MAXLIFETIME_CONN.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_MAXREDIRS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_MIME_OPTIONS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_MIMEPOST.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_NETRC.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_NETRC_FILE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_NEW_DIRECTORY_PERMS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_NEW_FILE_PERMS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_NOBODY.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_NOPROGRESS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_NOPROXY.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_NOSIGNAL.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_OPENSOCKETDATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_OPENSOCKETFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PASSWORD.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PATH_AS_IS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PINNEDPUBLICKEY.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PIPEWAIT.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PORT.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_POST.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_POSTFIELDS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_POSTFIELDSIZE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_POSTFIELDSIZE_LARGE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_POSTQUOTE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_POSTREDIR.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PRE_PROXY.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PREQUOTE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PREREQDATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PREREQFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PRIVATE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROGRESSDATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROGRESSFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROTOCOLS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROTOCOLS_STR.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_CAINFO.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_CAINFO_BLOB.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_CAPATH.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_CRLFILE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_ISSUERCERT.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_ISSUERCERT_BLOB.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_KEYPASSWD.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_PINNEDPUBLICKEY.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SERVICE_NAME.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSL_CIPHER_LIST.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSL_OPTIONS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSL_VERIFYHOST.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSL_VERIFYPEER.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSLCERT.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSLCERT_BLOB.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSLCERTTYPE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSLKEY.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSLKEY_BLOB.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSLKEYTYPE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_SSLVERSION.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_TLS13_CIPHERS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_TLSAUTH_PASSWORD.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_TLSAUTH_TYPE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_TLSAUTH_USERNAME.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXY_TRANSFER_MODE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXYAUTH.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXYHEADER.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXYPASSWORD.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXYPORT.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXYTYPE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXYUSERNAME.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PROXYUSERPWD.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_PUT.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_QUICK_EXIT.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_QUOTE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_RANDOM_FILE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_RANGE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_READDATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_READFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_REDIR_PROTOCOLS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_REDIR_PROTOCOLS_STR.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_REFERER.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_REQUEST_TARGET.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_RESOLVE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_RESOLVER_START_DATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_RESOLVER_START_FUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_RESUME_FROM.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_RESUME_FROM_LARGE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_RTSP_CLIENT_CSEQ.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_RTSP_REQUEST.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_RTSP_SERVER_CSEQ.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_RTSP_SESSION_ID.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_RTSP_STREAM_URI.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_RTSP_TRANSPORT.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SASL_AUTHZID.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SASL_IR.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SEEKDATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SEEKFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SERVER_RESPONSE_TIMEOUT.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SERVER_RESPONSE_TIMEOUT_MS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SERVICE_NAME.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SHARE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SOCKOPTDATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SOCKOPTFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SOCKS5_AUTH.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SOCKS5_GSSAPI_NEC.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SOCKS5_GSSAPI_SERVICE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_AUTH_TYPES.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_COMPRESSION.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_HOSTKEYDATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_HOSTKEYFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_HOST_PUBLIC_KEY_MD5.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_HOST_PUBLIC_KEY_SHA256.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_KEYDATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_KEYFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_KNOWNHOSTS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_PRIVATE_KEYFILE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSH_PUBLIC_KEYFILE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_CIPHER_LIST.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_CTX_DATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_CTX_FUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_EC_CURVES.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_ENABLE_ALPN.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_ENABLE_NPN.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_FALSESTART.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_OPTIONS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_SESSIONID_CACHE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_VERIFYHOST.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_VERIFYPEER.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSL_VERIFYSTATUS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSLCERT.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSLCERT_BLOB.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSLCERTTYPE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSLENGINE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSLENGINE_DEFAULT.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSLKEY.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSLKEY_BLOB.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSLKEYTYPE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SSLVERSION.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_STDERR.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_STREAM_DEPENDS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_STREAM_DEPENDS_E.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_STREAM_WEIGHT.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_SUPPRESS_CONNECT_HEADERS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TCP_FASTOPEN.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TCP_KEEPALIVE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TCP_KEEPIDLE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TCP_KEEPINTVL.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TCP_KEEPCNT.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TCP_NODELAY.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TELNETOPTIONS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TFTP_BLKSIZE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TFTP_NO_OPTIONS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TIMECONDITION.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TIMEOUT.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TIMEOUT_MS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TIMEVALUE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TIMEVALUE_LARGE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TLS13_CIPHERS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TLSAUTH_PASSWORD.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TLSAUTH_TYPE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TLSAUTH_USERNAME.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TRAILERDATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TRAILERFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TRANSFER_ENCODING.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_TRANSFERTEXT.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_UNIX_SOCKET_PATH.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_UNRESTRICTED_AUTH.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_UPKEEP_INTERVAL_MS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_UPLOAD.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_UPLOAD_BUFFERSIZE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_URL.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_USE_SSL.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_USERAGENT.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_USERNAME.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_USERPWD.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_VERBOSE.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_WILDCARDMATCH.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_WRITEDATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_WRITEFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_WS_OPTIONS.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_XFERINFODATA.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_XFERINFOFUNCTION.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_XOAUTH2_BEARER.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLSHOPT_LOCKFUNC.3	e1dc12e76de29773
+35006	56291	8149034470782017	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLSHOPT_SHARE.3	e1dc12e76de29773
+37414	56524	8149034290739756	CMakeFiles/jarvis.dir/src/main.cpp.obj	558c9b502fa38a63
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_ACTIVESOCKET.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_APPCONNECT_TIME.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_APPCONNECT_TIME_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_CAINFO.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_CAPATH.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_CERTINFO.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_CONDITION_UNMET.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_CONNECT_TIME.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_CONNECT_TIME_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_CONN_ID.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_CONTENT_LENGTH_DOWNLOAD.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_CONTENT_LENGTH_DOWNLOAD_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_CONTENT_LENGTH_UPLOAD.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_CONTENT_LENGTH_UPLOAD_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_CONTENT_TYPE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_COOKIELIST.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_EFFECTIVE_METHOD.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_EFFECTIVE_URL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_FILETIME.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_FILETIME_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_FTP_ENTRY_PATH.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_HEADER_SIZE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_HTTP_CONNECTCODE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_HTTP_VERSION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_HTTPAUTH_AVAIL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_LASTSOCKET.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_LOCAL_IP.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_LOCAL_PORT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_NAMELOOKUP_TIME.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_NAMELOOKUP_TIME_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_NUM_CONNECTS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_OS_ERRNO.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_PRETRANSFER_TIME.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_PRETRANSFER_TIME_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_POSTTRANSFER_TIME_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_PRIMARY_IP.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_PRIMARY_PORT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_PRIVATE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_PROTOCOL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_PROXY_ERROR.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_PROXY_SSL_VERIFYRESULT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_PROXYAUTH_AVAIL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_QUEUE_TIME_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_REDIRECT_COUNT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_REDIRECT_TIME.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_REDIRECT_TIME_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_REDIRECT_URL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_REFERER.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_REQUEST_SIZE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_RESPONSE_CODE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_RETRY_AFTER.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_RTSP_CLIENT_CSEQ.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_RTSP_CSEQ_RECV.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_RTSP_SERVER_CSEQ.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_RTSP_SESSION_ID.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_SCHEME.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_SIZE_DOWNLOAD.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_SIZE_DOWNLOAD_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_SIZE_UPLOAD.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_SIZE_UPLOAD_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_SPEED_DOWNLOAD.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_SPEED_DOWNLOAD_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_SPEED_UPLOAD.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_SPEED_UPLOAD_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_SSL_ENGINES.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_SSL_VERIFYRESULT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_STARTTRANSFER_TIME.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_STARTTRANSFER_TIME_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_TLS_SESSION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_TLS_SSL_PTR.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_TOTAL_TIME.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_TOTAL_TIME_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_USED_PROXY.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLINFO_XFER_ID.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLMOPT_CHUNK_LENGTH_PENALTY_SIZE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLMOPT_CONTENT_LENGTH_PENALTY_SIZE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLMOPT_MAX_CONCURRENT_STREAMS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLMOPT_MAX_HOST_CONNECTIONS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLMOPT_MAX_PIPELINE_LENGTH.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLMOPT_MAX_TOTAL_CONNECTIONS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLMOPT_MAXCONNECTS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLMOPT_PIPELINING.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLMOPT_PIPELINING_SERVER_BL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLMOPT_PIPELINING_SITE_BL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLMOPT_PUSHDATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLMOPT_PUSHFUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLMOPT_SOCKETDATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLMOPT_SOCKETFUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLMOPT_TIMERDATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLMOPT_TIMERFUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_ABSTRACT_UNIX_SOCKET.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_ACCEPT_ENCODING.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_ACCEPTTIMEOUT_MS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_ADDRESS_SCOPE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_ALTSVC.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_ALTSVC_CTRL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_APPEND.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_AUTOREFERER.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_AWS_SIGV4.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_BUFFERSIZE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_CAINFO.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_CAINFO_BLOB.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_CAPATH.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_CA_CACHE_TIMEOUT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_CERTINFO.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_CHUNK_BGN_FUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_CHUNK_DATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_CHUNK_END_FUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_CLOSESOCKETDATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_CLOSESOCKETFUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_CONNECT_ONLY.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_CONNECT_TO.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_CONNECTTIMEOUT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_CONNECTTIMEOUT_MS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_CONV_FROM_NETWORK_FUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_CONV_FROM_UTF8_FUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_CONV_TO_NETWORK_FUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_COOKIE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_COOKIEFILE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_COOKIEJAR.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_COOKIELIST.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_COOKIESESSION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_COPYPOSTFIELDS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_CRLF.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_CRLFILE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_CURLU.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_CUSTOMREQUEST.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_DEBUGDATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_DEBUGFUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_DEFAULT_PROTOCOL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_DIRLISTONLY.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_DISALLOW_USERNAME_IN_URL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_DNS_CACHE_TIMEOUT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_DNS_INTERFACE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_DNS_LOCAL_IP4.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_DNS_LOCAL_IP6.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_DNS_SERVERS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_DNS_SHUFFLE_ADDRESSES.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_DNS_USE_GLOBAL_CACHE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_DOH_SSL_VERIFYHOST.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_DOH_SSL_VERIFYPEER.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_DOH_SSL_VERIFYSTATUS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_DOH_URL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_ECH.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_EGDSOCKET.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_ERRORBUFFER.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_EXPECT_100_TIMEOUT_MS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_FAILONERROR.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_FILETIME.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_FNMATCH_DATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_FNMATCH_FUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_FOLLOWLOCATION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_FORBID_REUSE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_FRESH_CONNECT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_FTP_ACCOUNT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_FTP_ALTERNATIVE_TO_USER.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_FTP_CREATE_MISSING_DIRS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_FTP_FILEMETHOD.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_FTP_SKIP_PASV_IP.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_FTP_SSL_CCC.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_FTP_USE_EPRT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_FTP_USE_EPSV.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_FTP_USE_PRET.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_FTPPORT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_FTPSSLAUTH.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_GSSAPI_DELEGATION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HAPPY_EYEBALLS_TIMEOUT_MS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HAPROXYPROTOCOL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HAPROXY_CLIENT_IP.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HEADER.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HEADERDATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HEADERFUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HEADEROPT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HSTS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HSTS_CTRL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HSTSREADDATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HSTSREADFUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HSTSWRITEDATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HSTSWRITEFUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HTTP09_ALLOWED.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HTTP200ALIASES.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HTTP_CONTENT_DECODING.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HTTP_TRANSFER_DECODING.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HTTP_VERSION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HTTPAUTH.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HTTPGET.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HTTPHEADER.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HTTPPOST.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_HTTPPROXYTUNNEL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_IGNORE_CONTENT_LENGTH.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_INFILESIZE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_INFILESIZE_LARGE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_INTERFACE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_INTERLEAVEDATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_INTERLEAVEFUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_IOCTLDATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_IOCTLFUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_IPRESOLVE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	_deps/curl-build/docs/libcurl/opts/CURLOPT_ISSUERCERT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_ACTIVESOCKET.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_APPCONNECT_TIME.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_APPCONNECT_TIME_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_CAINFO.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_CAPATH.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_CERTINFO.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_CONDITION_UNMET.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_CONNECT_TIME.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_CONNECT_TIME_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_CONN_ID.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_CONTENT_LENGTH_DOWNLOAD.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_CONTENT_LENGTH_DOWNLOAD_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_CONTENT_LENGTH_UPLOAD.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_CONTENT_LENGTH_UPLOAD_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_CONTENT_TYPE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_COOKIELIST.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_EFFECTIVE_METHOD.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_EFFECTIVE_URL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_FILETIME.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_FILETIME_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_FTP_ENTRY_PATH.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_HEADER_SIZE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_HTTP_CONNECTCODE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_HTTP_VERSION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_HTTPAUTH_AVAIL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_LASTSOCKET.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_LOCAL_IP.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_LOCAL_PORT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_NAMELOOKUP_TIME.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_NAMELOOKUP_TIME_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_NUM_CONNECTS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_OS_ERRNO.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_PRETRANSFER_TIME.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_PRETRANSFER_TIME_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_POSTTRANSFER_TIME_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_PRIMARY_IP.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_PRIMARY_PORT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_PRIVATE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_PROTOCOL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_PROXY_ERROR.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_PROXY_SSL_VERIFYRESULT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_PROXYAUTH_AVAIL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_QUEUE_TIME_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_REDIRECT_COUNT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_REDIRECT_TIME.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_REDIRECT_TIME_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_REDIRECT_URL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_REFERER.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_REQUEST_SIZE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_RESPONSE_CODE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_RETRY_AFTER.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_RTSP_CLIENT_CSEQ.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_RTSP_CSEQ_RECV.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_RTSP_SERVER_CSEQ.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_RTSP_SESSION_ID.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_SCHEME.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_SIZE_DOWNLOAD.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_SIZE_DOWNLOAD_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_SIZE_UPLOAD.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_SIZE_UPLOAD_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_SPEED_DOWNLOAD.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_SPEED_DOWNLOAD_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_SPEED_UPLOAD.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_SPEED_UPLOAD_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_SSL_ENGINES.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_SSL_VERIFYRESULT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_STARTTRANSFER_TIME.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_STARTTRANSFER_TIME_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_TLS_SESSION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_TLS_SSL_PTR.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_TOTAL_TIME.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_TOTAL_TIME_T.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_USED_PROXY.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLINFO_XFER_ID.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLMOPT_CHUNK_LENGTH_PENALTY_SIZE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLMOPT_CONTENT_LENGTH_PENALTY_SIZE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLMOPT_MAX_CONCURRENT_STREAMS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLMOPT_MAX_HOST_CONNECTIONS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLMOPT_MAX_PIPELINE_LENGTH.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLMOPT_MAX_TOTAL_CONNECTIONS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLMOPT_MAXCONNECTS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLMOPT_PIPELINING.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLMOPT_PIPELINING_SERVER_BL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLMOPT_PIPELINING_SITE_BL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLMOPT_PUSHDATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLMOPT_PUSHFUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLMOPT_SOCKETDATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLMOPT_SOCKETFUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLMOPT_TIMERDATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLMOPT_TIMERFUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_ABSTRACT_UNIX_SOCKET.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_ACCEPT_ENCODING.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_ACCEPTTIMEOUT_MS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_ADDRESS_SCOPE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_ALTSVC.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_ALTSVC_CTRL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_APPEND.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_AUTOREFERER.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_AWS_SIGV4.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_BUFFERSIZE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_CAINFO.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_CAINFO_BLOB.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_CAPATH.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_CA_CACHE_TIMEOUT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_CERTINFO.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_CHUNK_BGN_FUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_CHUNK_DATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_CHUNK_END_FUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_CLOSESOCKETDATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_CLOSESOCKETFUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_CONNECT_ONLY.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_CONNECT_TO.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_CONNECTTIMEOUT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_CONNECTTIMEOUT_MS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_CONV_FROM_NETWORK_FUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_CONV_FROM_UTF8_FUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_CONV_TO_NETWORK_FUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_COOKIE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_COOKIEFILE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_COOKIEJAR.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_COOKIELIST.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_COOKIESESSION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_COPYPOSTFIELDS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_CRLF.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_CRLFILE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_CURLU.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_CUSTOMREQUEST.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_DEBUGDATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_DEBUGFUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_DEFAULT_PROTOCOL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_DIRLISTONLY.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_DISALLOW_USERNAME_IN_URL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_DNS_CACHE_TIMEOUT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_DNS_INTERFACE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_DNS_LOCAL_IP4.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_DNS_LOCAL_IP6.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_DNS_SERVERS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_DNS_SHUFFLE_ADDRESSES.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_DNS_USE_GLOBAL_CACHE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_DOH_SSL_VERIFYHOST.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_DOH_SSL_VERIFYPEER.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_DOH_SSL_VERIFYSTATUS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_DOH_URL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_ECH.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_EGDSOCKET.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_ERRORBUFFER.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_EXPECT_100_TIMEOUT_MS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_FAILONERROR.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_FILETIME.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_FNMATCH_DATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_FNMATCH_FUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_FOLLOWLOCATION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_FORBID_REUSE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_FRESH_CONNECT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_FTP_ACCOUNT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_FTP_ALTERNATIVE_TO_USER.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_FTP_CREATE_MISSING_DIRS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_FTP_FILEMETHOD.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_FTP_SKIP_PASV_IP.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_FTP_SSL_CCC.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_FTP_USE_EPRT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_FTP_USE_EPSV.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_FTP_USE_PRET.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_FTPPORT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_FTPSSLAUTH.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_GSSAPI_DELEGATION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HAPPY_EYEBALLS_TIMEOUT_MS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HAPROXYPROTOCOL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HAPROXY_CLIENT_IP.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HEADER.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HEADERDATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HEADERFUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HEADEROPT.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HSTS.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HSTS_CTRL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HSTSREADDATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HSTSREADFUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HSTSWRITEDATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HSTSWRITEFUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HTTP09_ALLOWED.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HTTP200ALIASES.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HTTP_CONTENT_DECODING.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HTTP_TRANSFER_DECODING.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HTTP_VERSION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HTTPAUTH.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HTTPGET.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HTTPHEADER.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HTTPPOST.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_HTTPPROXYTUNNEL.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_IGNORE_CONTENT_LENGTH.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_INFILESIZE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_INFILESIZE_LARGE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_INTERFACE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_INTERLEAVEDATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_INTERLEAVEFUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_IOCTLDATA.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_IOCTLFUNCTION.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_IPRESOLVE.3	a0e6cc48b4901f42
+28755	56714	8149034479985485	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/opts/CURLOPT_ISSUERCERT.3	a0e6cc48b4901f42
+25066	56848	8149034167265247	CMakeFiles/jarvis_speech.dir/src/speech/voice.cpp.obj	ee4379ffb771837c
+6730	58038	8149033983904699	CMakeFiles/jarvis_ai.dir/src/ai/ai.cpp.obj	fd11e9df9cb3e26a
+56849	59193	8149034485085244	jarvis_speech.lib	f5b7c23d8c743808
+58038	60250	8149034496981464	jarvis_ai.lib	5e9d778f738f84d5
+49389	69036	8149034410489448	CMakeFiles/core_test.dir/tests/core_test.cpp.obj	27fe1ac68df132e5
+50907	69760	8149034425678524	CMakeFiles/storage_test.dir/tests/storage_test.cpp.obj	88e80467d402a51b
+56437	72189	8149034480971522	CMakeFiles/agent_test.dir/tests/agent_test.cpp.obj	84363b6ff906fdd4
+52730	74389	8149034443905366	CMakeFiles/safety_test.dir/tests/safety_test.cpp.obj	8c7ca545221e0893
+74390	75077	8149034660504327	_deps/zlib-build/CMakeFiles/zlib.dir/adler32.c.obj	df7fb0669c8a8fec
+75078	76779	8149034667385929	_deps/zlib-build/CMakeFiles/zlib.dir/adler32_fold.c.obj	e6db23f06d5ea626
+76779	78210	8149034684396590	_deps/zlib-build/CMakeFiles/zlib.dir/chunkset.c.obj	73cb46dd855752a6
+78211	79810	8149034698704909	_deps/zlib-build/CMakeFiles/zlib.dir/compare256.c.obj	8c536def904c9e5d
+79811	80297	8149034714714610	_deps/zlib-build/CMakeFiles/zlib.dir/compress.c.obj	9db29037eccfe0bc
+56810	81206	8149034484704890	CMakeFiles/executor_test.dir/tests/executor_test.cpp.obj	75d02aceac518f77
+56525	81234	8149034481852317	CMakeFiles/speech_test.dir/tests/speech_test.cpp.obj	3a566abdc0166636
+80298	81314	8149034719579024	_deps/zlib-build/CMakeFiles/zlib.dir/cpu_features.c.obj	2303f8d7e25a882e
+81235	82234	8149034728947732	_deps/zlib-build/CMakeFiles/zlib.dir/crc32_braid_comb.c.obj	17c90d9c377b0d47
+59194	82273	8149034508537059	CMakeFiles/net_test.dir/tests/net_test.cpp.obj	794a4ffb3d806335
+81207	82384	8149034728667460	_deps/zlib-build/CMakeFiles/zlib.dir/crc32_braid.c.obj	e574e43c06769ff4
+81314	82513	8149034729738445	_deps/zlib-build/CMakeFiles/zlib.dir/crc32_fold.c.obj	2cd826a2a75d4b78
+82234	82828	8149034738949332	_deps/zlib-build/CMakeFiles/zlib.dir/deflate.c.obj	671eaa00a1f39b8e
+82385	82851	8149034740452335	_deps/zlib-build/CMakeFiles/zlib.dir/deflate_huff.c.obj	b34151d77478797d
+82274	83129	8149034739341039	_deps/zlib-build/CMakeFiles/zlib.dir/deflate_fast.c.obj	18c292204eeeae36
+82514	83375	8149034741733510	_deps/zlib-build/CMakeFiles/zlib.dir/deflate_medium.c.obj	5ebc8b4865a9fb27
+82829	83615	8149034744892464	_deps/zlib-build/CMakeFiles/zlib.dir/deflate_quick.c.obj	ab4bc5591f1e8fb6
+82852	84209	8149034745122677	_deps/zlib-build/CMakeFiles/zlib.dir/deflate_rle.c.obj	cb8fb6f43cb36151
+83129	84235	8149034747890288	_deps/zlib-build/CMakeFiles/zlib.dir/deflate_slow.c.obj	fbd3ff9e6e17d325
+83376	84553	8149034750362544	_deps/zlib-build/CMakeFiles/zlib.dir/deflate_stored.c.obj	63987519cf9ccf7
+83615	84738	8149034752754708	_deps/zlib-build/CMakeFiles/zlib.dir/functable.c.obj	b3a722d7124f08de
+84209	85110	8149034758690426	_deps/zlib-build/CMakeFiles/zlib.dir/infback.c.obj	fdbddef98a900b18
+60250	85154	8149034519096871	CMakeFiles/ai_test.dir/tests/ai_test.cpp.obj	7b8d1de88004b9e3
+84739	85341	8149034763990318	_deps/zlib-build/CMakeFiles/zlib.dir/insert_string.c.obj	2f6731b12835bef8
+84553	85357	8149034762138637	_deps/zlib-build/CMakeFiles/zlib.dir/inftrees.c.obj	bf204c1b685ec787
+85154	85656	8149034768144090	_deps/zlib-build/CMakeFiles/zlib.dir/slide_hash.c.obj	d986e193b8712fef
+85110	85760	8149034767703687	_deps/zlib-build/CMakeFiles/zlib.dir/insert_string_roll.c.obj	b958f4d031a76f11
+84236	85881	8149034758960675	_deps/zlib-build/CMakeFiles/zlib.dir/inflate.c.obj	4db2b6ee9d80ad
+85359	85978	8149034770185976	_deps/zlib-build/CMakeFiles/zlib.dir/uncompr.c.obj	61f3f186e02ad7c5
+85342	86158	8149034770015788	_deps/zlib-build/CMakeFiles/zlib.dir/trees.c.obj	4f4d7895673a8c90
+85656	86241	8149034773163773	_deps/zlib-build/CMakeFiles/zlib.dir/zutil.c.obj	e476fbeafd3aea47
+85881	86435	8149034775411110	_deps/zlib-build/CMakeFiles/zlib.dir/arch/x86/slide_hash_avx2.c.obj	5caf902089955483
+85761	86879	8149034774214931	_deps/zlib-build/CMakeFiles/zlib.dir/arch/x86/x86_features.c.obj	555bb8432c7b3cdc
+86241	87059	8149034779009539	_deps/zlib-build/CMakeFiles/zlib.dir/arch/x86/adler32_avx2.c.obj	bcc25fd8224f96b0
+85979	87076	8149034776392014	_deps/zlib-build/CMakeFiles/zlib.dir/arch/x86/chunkset_avx2.c.obj	e466a7838419d8a
+86158	87205	8149034778183633	_deps/zlib-build/CMakeFiles/zlib.dir/arch/x86/compare256_avx2.c.obj	2727576acc7568c2
+86436	87526	8149034780961258	_deps/zlib-build/CMakeFiles/zlib.dir/arch/x86/adler32_avx512.c.obj	c957568b61e2dd86
+86880	87903	8149034785395313	_deps/zlib-build/CMakeFiles/zlib.dir/arch/x86/adler32_avx512_vnni.c.obj	c41155ae47f9fcca
+87059	88020	8149034787192033	_deps/zlib-build/CMakeFiles/zlib.dir/arch/x86/adler32_sse42.c.obj	85ceadbeabaea0f2
+87076	88121	8149034787362196	_deps/zlib-build/CMakeFiles/zlib.dir/arch/x86/insert_string_sse42.c.obj	c18386ac18da1c15
+87527	88503	8149034791871732	_deps/zlib-build/CMakeFiles/zlib.dir/arch/x86/compare256_sse2.c.obj	e77ea9c2159d81fc
+87205	88521	8149034788653358	_deps/zlib-build/CMakeFiles/zlib.dir/arch/x86/chunkset_sse2.c.obj	3daa9770381ceda6
+69760	88582	8149034614209739	CMakeFiles/net_smoke.dir/tests/net_smoke.cpp.obj	d91c2963c22eb877
+87904	88600	8149034795635150	_deps/zlib-build/CMakeFiles/zlib.dir/arch/x86/slide_hash_sse2.c.obj	51105bf7124761b
+88021	88648	8149034796806546	_deps/zlib-build/CMakeFiles/zlib.dir/arch/x86/adler32_ssse3.c.obj	5d134b65798a1382
+88504	89408	8149034801634889	_deps/zlib-build/CMakeFiles/zlib.dir/arch/x86/crc32_pclmulqdq.c.obj	4865bf2f6fbb5e63
+88521	89428	8149034801815057	_deps/zlib-build/CMakeFiles/zlib.dir/arch/x86/crc32_vpclmulqdq.c.obj	a5f81e6adfbfd053
+88583	89453	8149034802425603	_deps/zlib-build/CMakeFiles/zlib.dir/gzlib.c.obj	a7d98a6cf2bede9
+88122	89654	8149034797820407	_deps/zlib-build/CMakeFiles/zlib.dir/arch/x86/chunkset_ssse3.c.obj	9714ee8060f7040c
+88601	89756	8149034802615778	_deps/zlib-build/CMakeFiles/zlib.dir/gzread.c.obj	8b3288391f98f33e
+88648	89784	8149034803086219	_deps/zlib-build/CMakeFiles/zlib.dir/gzwrite.c.obj	8c6efa11b4ede24b
+89429	90477	8149034818024894	_deps/curl-build/docs/libcurl/libcurl-symbols.md	37ce69ed50c311cc
+89429	90477	8149034818024894	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/libcurl-symbols.md	37ce69ed50c311cc
+89408	92876	8149034810683121	_deps/zlib-build/CMakeFiles/zlib.dir/win32/zlib1.rc.res	2d8f1ae9b00e8221
+89785	93064	8149034814446546	safety_test.exe	fcff2429d47d2c9
+89655	93389	8149034813145376	core_test.exe	3e4b579e87b034d6
+89757	93424	8149034814166295	storage_test.exe	14024c9ab1435591
+89454	93448	8149034811143552	jarvis.exe	114909b6414ec67b
+72189	93714	8149034638497190	CMakeFiles/agent_probe.dir/tests/agent_probe.cpp.obj	90966ed233877a2
+90477	93922	8149034821377949	agent_test.exe	dc735355e9e66169
+92876	94905	8149034845365498	speech_test.exe	e78bdaaa2ad94b93
+93064	95181	8149034847237215	executor_test.exe	6cef5bba1f7c2883
+94906	95586	8149034871164425	_deps/curl-build/docs/curl-config.1	56ecaad2b8ca2aac
+94906	95586	8149034871164425	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/curl-config.1	56ecaad2b8ca2aac
+93389	95649	8149034850490174	net_test.exe	2cc687cc69027b79
+95181	95649	8149034871364809	_deps/curl-build/docs/mk-ca-bundle.1	308825015b5d162b
+95181	95649	8149034871364809	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/mk-ca-bundle.1	308825015b5d162b
+93449	95713	8149034851090755	net_smoke.exe	15c347c31fc6ef27
+93425	95788	8149034850850505	ai_test.exe	802a79ce0341ad9c
+93715	96101	8149034853743129	agent_probe.exe	d8d40695242ad321
+93923	96411	8149034879931992	_deps/zlib-build/zlib.dll	ab602bdbc4ba438
+93923	96411	8149034879931992	_deps/zlib-build/zlib.lib	ab602bdbc4ba438
+69037	96769	8149034606973163	CMakeFiles/worker_test.dir/tests/worker_test.cpp.obj	d8d3127f5741b3d
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_easy_cleanup.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_easy_duphandle.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_easy_escape.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_easy_getinfo.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_easy_header.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_easy_init.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_easy_nextheader.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_easy_option_by_id.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_easy_option_by_name.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_easy_option_next.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_easy_pause.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_easy_perform.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_easy_recv.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_easy_reset.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_easy_send.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_easy_setopt.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_easy_strerror.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_easy_unescape.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_easy_upkeep.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_escape.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_formadd.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_formfree.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_formget.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_free.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_getdate.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_getenv.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_global_cleanup.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_global_init.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_global_init_mem.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_global_trace.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_global_sslset.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_mime_addpart.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_mime_data.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_mime_data_cb.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_mime_encoder.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_mime_filedata.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_mime_filename.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_mime_free.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_mime_headers.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_mime_init.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_mime_name.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_mime_subparts.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_mime_type.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_mprintf.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_multi_add_handle.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_multi_assign.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_multi_cleanup.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_multi_fdset.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_multi_get_handles.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_multi_info_read.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_multi_init.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_multi_perform.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_multi_poll.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_multi_remove_handle.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_multi_setopt.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_multi_socket.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_multi_socket_action.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_multi_socket_all.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_multi_strerror.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_multi_timeout.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_multi_wakeup.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_multi_wait.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_multi_waitfds.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_pushheader_bynum.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_pushheader_byname.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_share_cleanup.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_share_init.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_share_setopt.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_share_strerror.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_slist_append.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_slist_free_all.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_strequal.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_strnequal.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_unescape.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_url.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_url_cleanup.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_url_dup.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_url_get.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_url_set.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_url_strerror.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_version.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_version_info.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_ws_meta.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_ws_recv.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/curl_ws_send.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/libcurl-easy.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/libcurl-env.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/libcurl-env-dbg.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/libcurl-errors.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/libcurl-multi.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/libcurl-security.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/libcurl-share.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/libcurl-symbols.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/libcurl-thread.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/libcurl-tutorial.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/libcurl-url.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/libcurl-ws.3	52cc41be39dcdc45
+95587	97435	8149034890810228	_deps/curl-build/docs/libcurl/libcurl.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_easy_cleanup.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_easy_duphandle.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_easy_escape.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_easy_getinfo.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_easy_header.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_easy_init.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_easy_nextheader.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_easy_option_by_id.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_easy_option_by_name.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_easy_option_next.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_easy_pause.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_easy_perform.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_easy_recv.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_easy_reset.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_easy_send.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_easy_setopt.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_easy_strerror.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_easy_unescape.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_easy_upkeep.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_escape.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_formadd.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_formfree.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_formget.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_free.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_getdate.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_getenv.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_global_cleanup.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_global_init.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_global_init_mem.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_global_trace.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_global_sslset.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_mime_addpart.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_mime_data.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_mime_data_cb.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_mime_encoder.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_mime_filedata.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_mime_filename.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_mime_free.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_mime_headers.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_mime_init.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_mime_name.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_mime_subparts.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_mime_type.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_mprintf.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_multi_add_handle.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_multi_assign.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_multi_cleanup.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_multi_fdset.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_multi_get_handles.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_multi_info_read.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_multi_init.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_multi_perform.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_multi_poll.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_multi_remove_handle.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_multi_setopt.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_multi_socket.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_multi_socket_action.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_multi_socket_all.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_multi_strerror.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_multi_timeout.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_multi_wakeup.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_multi_wait.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_multi_waitfds.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_pushheader_bynum.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_pushheader_byname.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_share_cleanup.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_share_init.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_share_setopt.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_share_strerror.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_slist_append.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_slist_free_all.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_strequal.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_strnequal.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_unescape.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_url.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_url_cleanup.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_url_dup.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_url_get.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_url_set.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_url_strerror.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_version.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_version_info.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_ws_meta.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_ws_recv.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/curl_ws_send.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/libcurl-easy.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/libcurl-env.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/libcurl-env-dbg.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/libcurl-errors.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/libcurl-multi.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/libcurl-security.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/libcurl-share.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/libcurl-symbols.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/libcurl-thread.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/libcurl-tutorial.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/libcurl-url.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/libcurl-ws.3	52cc41be39dcdc45
+95587	97435	8149034890810228	C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/curl-build/docs/libcurl/libcurl.3	52cc41be39dcdc45
+96770	97707	8149034884294297	worker_test.exe	eff0ded34fd1bcd0
+316	4034	8149035177875222	CMakeFiles/jarvis.dir/src/main.cpp.obj	558c9b502fa38a63
+4035	4311	8149035215065467	jarvis.exe	114909b6414ec67b
+312	4426	8149036394050827	CMakeFiles/jarvis_speech.dir/src/speech/synth.cpp.obj	5b5ac136f096da30
+4427	4631	8149036435208068	jarvis_speech.lib	f5b7c23d8c743808
+4631	4948	8149036437248260	speech_test.exe	e78bdaaa2ad94b93

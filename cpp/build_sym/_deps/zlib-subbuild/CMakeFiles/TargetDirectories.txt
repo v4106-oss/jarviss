@@ -1,0 +1,3 @@
+C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/zlib-subbuild/CMakeFiles/zlib-populate.dir
+C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/zlib-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/cem134/Desktop/C.O.R/Jarvis - Kopya/cpp/build_sym/_deps/zlib-subbuild/CMakeFiles/rebuild_cache.dir
